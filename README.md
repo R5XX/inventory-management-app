@@ -1,4 +1,4 @@
-# inventory-management-app
+
 ### README for Inventory Management App
 
 # Inventory Management App
