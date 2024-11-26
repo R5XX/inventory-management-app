@@ -141,4 +141,4 @@ For more information, visit the [Wiki](https://github.com/R5XX/inventory-managem
 
 ---
 
-You can add this content to your README.md file in your GitHub repository. Let me know if you need any further customization or additional sections.
+
